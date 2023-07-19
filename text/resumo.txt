@@ -1,0 +1,14 @@
+Aplicativo de mercado
+Administrador cria contas para toda a familia
+cada pessoa adiciona alimentos em sua lista
+possivel visualizar lista de cada um e lista total
+
+produto:
+nome
+quantidade
+categoria
+
+pessoa:
+nome
+login
+senha

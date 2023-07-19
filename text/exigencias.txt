@@ -1,0 +1,11 @@
+Projeto 5 - Road Map
+50% - CRUD (MVC)
+20% - Autenticação de Usuarios
+10% - Estilização (Bootstrap)
+10% - Painel de Administração (BD)
+10% - Dockerização do Projeto
+
+create 
+read 
+update 
+delete

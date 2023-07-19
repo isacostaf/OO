@@ -1,0 +1,11 @@
+classe PRODUTO:
+> é onde definimos a essencia do objeto
+> o que possui um produto: nome, categoria, quantidade
+> definimos que um produto sempre vai ser formado por esses 3 dados
+
+classe CRIAELISTA:
+> é onde criamos uma lista vazia (listinha)
+> vamos add elementos nessa lista
+> pela main vamos sempre passar como parametro elementos do tipo Produto
+> porem a classe CRIAELISTA nao sabe disso, nao recebe nenhuma 
+especificacao, tudo é feito na main
