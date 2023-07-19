@@ -11,7 +11,7 @@ class Lista:
         self.listinha = []
         
     #vamos inserir em listinha
-    #inserir o que?
+    #inserir o que??
     #decidimos isso na main pois passamos como parametro (insereproduto)
     def inserir(self, insereproduto):
         self.listinha.append(insereproduto)
