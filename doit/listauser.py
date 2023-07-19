@@ -1,5 +1,6 @@
 from make.usuario import Usuario
 
+#vamos criar uma lista de usuarios
 class Listauser:
     def __init__(self):
         self.listinhauser = []
@@ -15,3 +16,4 @@ class Listauser:
             print(p.nome)
             print(p.senha)
             print(p.prioridade)
+            
