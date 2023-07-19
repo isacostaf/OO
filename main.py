@@ -1,5 +1,16 @@
 from make.produto import Produto
-from doit.criaelista import Lista
+from make.usuario import Usuario
+from doit.listauser import Listauser
+from doit.listaproduto import Lista
+
+nomezin = input("nomezin:")
+senhazin = input("senha:")
+
+user = Usuario(nomezin, senhazin, 0)
+
+listauser = Listauser()
+listauser.inserir(user)
+listauser.imprimir()
 
 #inputs produto
 name = input("Name:")

@@ -16,6 +16,12 @@ class Lista:
     def inserir(self, insereproduto):
         self.listinha.append(insereproduto)
         
+    #vamos remover em listinha
+    #remover o que??
+    #decidimos isso na main pois passamos como parametro (removeproduto)
+    def remover(self, removeproduto):
+        self.listinha.remove(removeproduto)
+        
     #vamos imprimir a lista
     def imprimir(self):
         for p in self.listinha:
